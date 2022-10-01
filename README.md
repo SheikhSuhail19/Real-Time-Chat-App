@@ -1,18 +1,17 @@
-# Real-Time-Chat-App:
-A Real Time Chat App where many users can communicate as a group with each other.
+# Real-Time-Chat-App: <br />
+A Real Time Chat App where many users can communicate as a group with each other. <br />
 
-# Tools Used:
-The communication endpoints are set-up with the help of Node.js and socket.io.
-HTML, CSS & JS
+# Tools Used: <br />
+The communication endpoints are set-up with the help of Node.js and socket.io. <br />
 
-### Prerequisites:
-  npm install nodejs
-  npm install socket.io
-  npm install init
-  npm install -g nodemon
+### Prerequisites: <br />
+  npm install nodejs <br />
+  npm install socket.io <br />
+  npm install init <br />
+  npm install -g nodemon <br />
 
-### To run the code:
+### To run the code: <br />
 
-Run the nodeServer/server.js in terminal as ->  nodemon .\server.js or (simply run it).
-Open index.html in the browser, and do the chat.
-Open multiple tabs of index.html in the browser, to create multiple client users.
+Run the nodeServer/server.js in terminal as ->  nodemon .\server.js or (simply run it). <br />
+Open index.html in the browser, & start chatting. <br />
+Open multiple tabs of index.html in the browser, to create multiple client users. <br />

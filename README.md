@@ -64,9 +64,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Screenshots while testing:
 
+Old images of working project
 ![Screenshot 1](img/img1.png)
 ![Screenshot 2](img/img2.png)
 ![Screenshot 3](img/img3.png)
+
+Image after recent changes (updated project)
+![Screenshot 4](img/ChatAppUpdated.png)
 
 Feel free to explore the Real-Time Chat App, enjoy instant communication, and contribute to its development. If you encounter any issues or have suggestions for improvements, please let us know.
 

@@ -2,18 +2,6 @@
 
 The Real-Time Chat App is a modern communication platform that allows multiple users to communicate with each other in real time. This application leverages Node.js and Socket.io to provide seamless and instant messaging between users.
 
-## Table of Contents
-
-- [Real-Time Chat App](#real-time-chat-app)
-  - [Table of Contents](#table-of-contents)
-  - [Tools Used](#tools-used)
-  - [Prerequisites](#prerequisites)
-  - [Getting Started](#getting-started)
-  - [Features](#features)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Screenshots](#screenshots)
-
 ## Tools Used
 
 - [Node.js](https://nodejs.org/): A JavaScript runtime for server-side applications.
@@ -27,13 +15,13 @@ Before you can run the Real-Time Chat App, make sure you have the following prer
 
 To install Socket.io, open your terminal and run:
 
-``npm install socket.io `
+```npm install socket.io ```
 
 ## Getting Started
 
 To run the Real-Time Chat App, follow these steps:
 
-1. Start the Node.js server. Open your terminal and navigate to the project directory, then run:
+1. Start the Node.js server. Open your terminal and navigate to the project directory, then run: ```node ./nodeServer/index.js```
 
 2. Open the `index.html` file in your preferred web browser.
 
